@@ -6,12 +6,8 @@ Offered by the
 Department of Computer Science and Engineering  
 School of Engineering and Sciences  
 
-Submitted by  
-- AP24110010751 – G. Sravya  
-- AP24110010759 – B. Nishwitha  
-- AP24110010765 – T. Saranya  
+Submitted by   
 - AP24110010776 – K. Srujan  
-- AP24110010784 – K. Praneeth Kumar  
 
 **NOVEMBER – 2025**
 
@@ -370,3 +366,4 @@ int main() {
     printf("No solution found.\n");
     return 0;
 }
+
